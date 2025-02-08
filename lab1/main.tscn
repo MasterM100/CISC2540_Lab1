@@ -1,3 +1,19 @@
-[gd_scene format=3 uid="uid://cowfd5xkxnm08"]
+[gd_scene load_steps=4 format=3 uid="uid://cowfd5xkxnm08"]
 
-[node name="Node2D" type="Node2D"]
+[ext_resource type="PackedScene" uid="uid://cfrx8fq8blbj5" path="res://herbe.tscn" id="1_qlwpa"]
+[ext_resource type="Texture2D" uid="uid://cy0vbjp5pxicm" path="res://Bonhomme.png" id="1_vfoib"]
+[ext_resource type="Script" path="res://character_body_2d.gd" id="2_v1nc2"]
+
+[node name="Node2D" type="CharacterBody2D"]
+
+[node name="Herbe" parent="." instance=ExtResource("1_qlwpa")]
+
+[node name="CharacterBody2D" type="CharacterBody2D" parent="."]
+position = Vector2(-1.52588e-05, -3.05176e-05)
+scale = Vector2(1, 1)
+script = ExtResource("2_v1nc2")
+
+[node name="Bonhomme" type="Sprite2D" parent="CharacterBody2D"]
+position = Vector2(202, 444)
+scale = Vector2(0.654275, 0.714493)
+texture = ExtResource("1_vfoib")

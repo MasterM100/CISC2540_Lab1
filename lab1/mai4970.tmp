@@ -1,0 +1,12 @@
+[gd_scene load_steps=3 format=3 uid="uid://cowfd5xkxnm08"]
+
+[ext_resource type="Texture2D" uid="uid://cy0vbjp5pxicm" path="res://Bonhomme.png" id="1_vfoib"]
+[ext_resource type="Script" path="res://bonhomme.gd" id="2_ujafj"]
+
+[node name="Node2D" type="Node2D"]
+
+[node name="Bonhomme" type="Sprite2D" parent="."]
+position = Vector2(202, 444)
+scale = Vector2(0.654275, 0.714493)
+texture = ExtResource("1_vfoib")
+script = ExtResource("2_ujafj")

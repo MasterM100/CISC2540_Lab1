@@ -1,0 +1,9 @@
+[gd_scene load_steps=2 format=3 uid="uid://cfrx8fq8blbj5"]
+
+[ext_resource type="Texture2D" uid="uid://b4f3gjpp8e78i" path="res://Herbe.png" id="1_txhja"]
+
+[node name="Herbe" type="Sprite2D"]
+z_index = -7
+position = Vector2(581, 330.5)
+scale = Vector2(1.2079, 1.83056)
+texture = ExtResource("1_txhja")
