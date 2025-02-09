@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://b22mjtrje75ma"
-path="res://.godot/imported/BONHOMME.png-d7b62ffbc206244d0830ecd1e6dc43e2.ctex"
+uid="uid://cy0vbjp5pxicm"
+path="res://.godot/imported/Bonhomme.png-334617c36963fcc7e821b9f71bd0b6db.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BONHOMME.png"
-dest_files=["res://.godot/imported/BONHOMME.png-d7b62ffbc206244d0830ecd1e6dc43e2.ctex"]
+source_file="res://Bonhomme.png"
+dest_files=["res://.godot/imported/Bonhomme.png-334617c36963fcc7e821b9f71bd0b6db.ctex"]
 
 [params]
 

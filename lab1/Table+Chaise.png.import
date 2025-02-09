@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://b22mjtrje75ma"
-path="res://.godot/imported/BONHOMME.png-d7b62ffbc206244d0830ecd1e6dc43e2.ctex"
+uid="uid://xxhpufxq1rsk"
+path="res://.godot/imported/Table+Chaise.png-1e1872e3455cd61381cf8440ab33706f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BONHOMME.png"
-dest_files=["res://.godot/imported/BONHOMME.png-d7b62ffbc206244d0830ecd1e6dc43e2.ctex"]
+source_file="res://Table+Chaise.png"
+dest_files=["res://.godot/imported/Table+Chaise.png-1e1872e3455cd61381cf8440ab33706f.ctex"]
 
 [params]
 
